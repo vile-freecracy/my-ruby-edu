@@ -19,7 +19,7 @@ gem "jbuilder"
 
 # Use Active Model has_secure_password [https://guides.rubyonrails.org/active_model_basics.html#securepassword]
 gem "bcrypt", "~> 3.1.18"
-gem 'jwt', '~> 2.6'
+gem 'jwt', '~> 3.1'
 gem 'pundit', '~> 2.2'
 gem 'graphql', '~> 2.0'
 
